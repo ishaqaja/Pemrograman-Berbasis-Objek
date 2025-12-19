@@ -1,0 +1,8 @@
+LAPORAN INVENTARIS MINIMARKET
+Waktu: 2025-10-21 20:24:44
+----------------------------------------
+Roti Coklat - Stok: 10 - Harga: Rp15000
+Air Mineral - Stok: 25 - Harga: Rp5000
+Sabun Mandi - Stok: 15 - Harga: Rp12000
+----------------------------------------
+Total Nilai Inventaris (termasuk pajak): Rp500500

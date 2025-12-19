@@ -1,0 +1,5 @@
+Jika file models/kontak.py dijalankan secara langsung, maka tidak akan muncul output apa pun. 
+Hal ini terjadi karena di dalam file tersebut hanya terdapat definisi class Kontak tanpa ada perintah untuk menjalankan atau menampilkan sesuatu, 
+seperti pemanggilan fungsi print() atau blok if __name__ == "__main__":. Jadi, ketika program dijalankan, 
+Python hanya membaca dan memuat class tersebut ke memori tanpa mengeksekusi tindakan apa pun. 
+File ini memang berfungsi sebagai modul atau blueprint, bukan sebagai program utama yang menghasilkan output.
